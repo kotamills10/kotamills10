@@ -11,13 +11,21 @@ I love turning data and numbers into a big picture, drawing out conclusions or t
 
 ## Contact
 :email: Please feel free to get in touch with me:
-- Email: 
+- Email: dakota.k.mills+github@gmail.com
+- LinkedIn: [Connect with me on LinkedIn] (https://www.linkedin.com/in/dakotamills)
 
-- 👋 Hi, I’m @kotamills10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+## Skills
+:bar_chart: I have obtained a wealth of information and analytical skills thorugh univerity studies and online courses such as LearnSQL and DataCamp:
+- Data Analysis
+- Data Visulization (Tableau)
+- SQL and Database Management
+- Python Programming - currently studying
+- R Programming - currently studying
+
+
+Thank you for visiting my GitHub profile, 
+let's connect and collaborate on some exciting data adventures!
 
 <!---
 kotamills10/kotamills10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
